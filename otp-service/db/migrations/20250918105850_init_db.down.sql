@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS otp_code;
+DROP TABLE IF EXISTS session;
